@@ -1,1 +1,1 @@
-Repo of random DSA exercises I did
+Repo of random DSA exercises I've done
